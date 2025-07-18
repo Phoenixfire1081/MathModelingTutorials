@@ -11,7 +11,7 @@ The tutorials were prepared by me and deal with problems in the following
 - Shallow water equations (SWE)
 - Solver for the SWE
 
-### Winter semester 2020
+### Summer semester 2020
 
 The tutorials were prepared by Prof. Nikki Vercauteren and deal with problems in the following:
 
